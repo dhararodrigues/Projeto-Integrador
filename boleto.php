@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="belezapgto.css">
     <title>Boleto</title>
 </head>
+
 <body>
         <div id='titulo' class='titulo'>
         Boleto</div>

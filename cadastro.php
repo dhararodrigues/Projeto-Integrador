@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    
     <?php
     include 'conectabanco.php';
     $nome = $_POST['nome'];
